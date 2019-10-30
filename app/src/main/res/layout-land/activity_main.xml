@@ -83,7 +83,6 @@
     </LinearLayout>
 </LinearLayout>
 
-
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/rightLayout"
         android:layout_width="400dp"
