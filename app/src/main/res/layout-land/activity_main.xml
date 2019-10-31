@@ -79,7 +79,6 @@
             android:background="#FF9800"
             android:onClick="onOperationClick"
             android:layout_marginLeft="10dp"/>
-
     </LinearLayout>
 </LinearLayout>
 
@@ -350,8 +349,7 @@
         android:layout_marginLeft="3dp"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+
     </LinearLayout>
-
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
